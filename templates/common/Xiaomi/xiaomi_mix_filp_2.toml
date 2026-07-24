@@ -1,1 +1,8 @@
-
+[templates."Xiaomi MIX Flip 2"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "2505APX7BC"
+device = "bixi"
+product = "bixi"
+name = "bixi"
+marketname = "Xiaomi MIX Flip 2"
