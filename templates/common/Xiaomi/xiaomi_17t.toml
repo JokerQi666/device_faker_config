@@ -4,5 +4,7 @@ brand = "Xiaomi"
 model = "M531DA"
 device = "chagall"
 product = "chagall"
+fingerprint = ""
 name = "chagall"
 marketname = "Xiaomi 17T"
+author = "GitHub@JokerQi666
