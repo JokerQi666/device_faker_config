@@ -4,5 +4,7 @@ brand = "Xiaomi"
 model = "2203121C"
 device = "thor"
 product = "thor"
+fingerprint = ""
 name = "thor"
 marketname = "Xiaomi 12S Ultra"
+author = "GitHub@JokerQi666
