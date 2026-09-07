@@ -1,0 +1,12 @@
+[templates."Xiaomi Pad 9 Pro Max"]
+manufacturer = "Xiaomi"
+brand = "Xiaomi"
+model = "M367FC"
+device = "yingtian"
+product = "yingtian"
+name = "yingtian"
+marketname = "Xiaomi Pad 9 Pro Max"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"
