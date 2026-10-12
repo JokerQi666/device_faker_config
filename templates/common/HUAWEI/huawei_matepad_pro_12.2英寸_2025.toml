@@ -1,1 +1,13 @@
 
+[templates."HUAWEI MatePad Pro 12.2 英寸 2025"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "MRDI-W20"
+ device = "Morandi"
+ product = "Morandi"
+ name = "Morandi"
+ marketname = "HUAWEI MatePad Pro 12.2 英寸 2025"
+ fingerprint = " "
+ characteristics = "tablet"
+ force_denylist_unmount = true
+ author = "GitHub@JokerQi666"
