@@ -1,1 +1,10 @@
-
+[templates."OPPO Reno 15c"]
+manufacturer = "OPPO"
+brand = "OPPO"
+model = "PMD110"
+device = "whoopass-c3"
+product = "whoopass-c3"
+fingerprint = ""
+name = "whoopass-c3"
+marketname = "OPPO Reno 15c"
+author = "GitHub@JokerQi666"
