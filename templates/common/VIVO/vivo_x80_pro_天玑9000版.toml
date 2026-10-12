@@ -1,4 +1,4 @@
-[templates."vivo X80 Pro 天玑 9000 版"]
+[templates."vivo X80 Pro 天玑9000版"]
 manufacturer = "vivo"
 brand = "vivo"
 model = "V2186A"
@@ -6,5 +6,5 @@ device = "PD2186"
 product = "PD2186"
 fingerprint = ""
 name = "PD2186"
-marketname = "vivo X80 Pro 天玑 9000 版"
+marketname = "vivo X80 Pro 天玑9000版"
 author = "GitHub@JokerQi666"
