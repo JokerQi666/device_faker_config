@@ -1,1 +1,10 @@
-
+[templates."HONOR Magic Vs 3"]
+manufacturer = "HONOR"
+brand = "HONOR"
+model = "FLC-AN00"
+device = "Falcon"
+product = "Falcon"
+fingerprint = ""
+name = "Falcon"
+marketname = "HONOR Magic Vs 3"
+author = "GitHub@JokerQi666"
