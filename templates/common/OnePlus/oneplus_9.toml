@@ -1,1 +1,10 @@
-
+[templates."OnePlus 9"]
+manufacturer = "OnePlus"
+brand = "OnePlus"
+model = "LE2110"
+device = "lemonade"
+product = "lemonade"
+fingerprint = ""
+name = "lemonade"
+marketname = "OnePlus 9"
+author = "GitHub@JokerQi666"
