@@ -1,1 +1,12 @@
-
+[templates."HONOR MagicPad"]
+manufacturer = "HONOR"
+brand = "HONOR"
+model = "GDI-W09"
+device = "Gaudi"
+product = "Gaudi"
+name = "Gaudi"
+marketname = "HONOR MagicPad"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"
