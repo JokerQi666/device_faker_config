@@ -1,1 +1,10 @@
-
+[templates."OnePlus 10 Pro"]
+manufacturer = "OnePlus"
+brand = "OnePlus"
+model = "NE2210"
+device = "negroni"
+product = "negroni"
+fingerprint = ""
+name = "negroni"
+marketname = "OnePlus 10 Pro"
+author = "GitHub@JokerQi666"
