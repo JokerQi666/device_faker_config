@@ -1,1 +1,10 @@
-
+[templates."HONOR Magic 2"]
+manufacturer = "HONOR"
+brand = "HONOR"
+model = "TNY-AL00"
+device = "Tony"
+product = "Tony"
+fingerprint = ""
+name = "Tony"
+marketname = "HONOR Magic 2"
+author = "GitHub@JokerQi666"
