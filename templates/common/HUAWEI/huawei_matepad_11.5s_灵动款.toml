@@ -1,1 +1,12 @@
-
+[templates."HUAWEI MatePad 11.5 S 灵动款"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "DMG-W00"
+ device = "Domingo"
+ product = "Domingo"
+ name = "Domingo"
+ marketname = "HUAWEI MatePad 11.5 S 灵动款"
+ fingerprint = " "
+ characteristics = "tablet"
+ force_denylist_unmount = true
+ author = "GitHub@JokerQi666"
