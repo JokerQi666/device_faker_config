@@ -1,1 +1,10 @@
-
+[templates."OnePlus Ace 6T"]
+manufacturer = "OnePlus"
+brand = "OnePlus"
+model = "PLR110"
+device = "macan"
+product = "macan"
+fingerprint = ""
+name = "macan"
+marketname = "OnePlus Ace 6T"
+author = "GitHub@JokerQi666"
