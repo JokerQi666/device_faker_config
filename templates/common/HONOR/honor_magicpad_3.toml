@@ -1,1 +1,12 @@
-
+[templates."HONOR MagicPad 3"]
+manufacturer = "HONOR"
+brand = "HONOR"
+model = "CGA-W00"
+device = "Changan"
+product = "Changan"
+name = "Changan"
+marketname = "HONOR MagicPad 3"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"
