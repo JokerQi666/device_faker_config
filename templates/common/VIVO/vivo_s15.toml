@@ -1,1 +1,10 @@
-
+[templates."vivo S15"]
+manufacturer = "vivo"
+brand = "vivo"
+model = "V2203A"
+device = "PD2203"
+product = "PD2203"
+fingerprint = ""
+name = "PD2203"
+marketname = "vivo S15"
+author = "GitHub@JokerQi666"
