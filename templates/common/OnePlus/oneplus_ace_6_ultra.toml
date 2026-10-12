@@ -1,1 +1,10 @@
-
+[templates."OnePlus Ace 6 Ultra"]
+manufacturer = "OnePlus"
+brand = "OnePlus"
+model = "PMB110"
+device = "roadster"
+product = "roadster"
+fingerprint = ""
+name = "roadster"
+marketname = "OnePlus Ace 6 Ultra"
+author = "GitHub@JokerQi666"
