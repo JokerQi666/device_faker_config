@@ -1,1 +1,12 @@
-
+[templates."HUAWEI MatePad Pro Max"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "GEM-W10"
+ device = "Gellman"
+ product = "Gellman"
+ name = "Gellman"
+ marketname = "HUAWEI MatePad Pro Max"
+ fingerprint = " "
+ characteristics = "tablet"
+ force_denylist_unmount = true
+ author = "GitHub@JokerQi666"
