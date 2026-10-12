@@ -1,1 +1,12 @@
-
+[templates."HUAWEI MatePad Air 12 英寸"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "BKY-W21"
+ device = "Banksy"
+ product = "Banksy"
+ name = "Banksy"
+ marketname = "HUAWEI MatePad Air 12 英寸"
+ fingerprint = " "
+ characteristics = "tablet"
+ force_denylist_unmount = true
+ author = "GitHub@JokerQi666"
