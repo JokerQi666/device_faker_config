@@ -1,1 +1,12 @@
-
+[templates."HUAWEI MatePad 11 英寸 2023"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "DBR-W10"
+ device = "DebussyR"
+ product = "DebussyR"
+ name = "DebussyR"
+ marketname = "HUAWEI MatePad 11 英寸 2023"
+ fingerprint = " "
+ characteristics = "tablet"
+ force_denylist_unmount = true
+ author = "GitHub@JokerQi666"
