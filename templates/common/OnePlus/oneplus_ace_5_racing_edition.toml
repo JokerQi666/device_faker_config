@@ -1,1 +1,10 @@
-
+[templates."OnePlus Ace 5 Racing Edition"]
+manufacturer = "OnePlus"
+brand = "OnePlus"
+model = "PLF110"
+device = "subaru"
+product = "subaru"
+fingerprint = ""
+name = "subaru"
+marketname = "OnePlus Ace 5 Racing Edition"
+author = "GitHub@JokerQi666"
