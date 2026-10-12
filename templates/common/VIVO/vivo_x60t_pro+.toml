@@ -1,1 +1,10 @@
-
+[templates."vivo X60t Pro"]
+manufacturer = "vivo"
+brand = "vivo"
+model = "V2120A"
+device = "PD2120"
+product = "PD2120"
+fingerprint = ""
+name = "PD2120"
+marketname = "vivo X60t Pro"
+author = "GitHub@JokerQi666"
