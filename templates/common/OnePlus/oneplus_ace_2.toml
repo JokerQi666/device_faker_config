@@ -1,1 +1,10 @@
-
+[templates."OnePlus Ace 2"]
+manufacturer = "OnePlus"
+brand = "OnePlus"
+model = "PHK110"
+device = "udon"
+product = "udon"
+fingerprint = ""
+name = "udon"
+marketname = "OnePlus Ace 2"
+author = "GitHub@JokerQi666"
