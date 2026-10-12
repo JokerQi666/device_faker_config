@@ -1,1 +1,10 @@
-
+[templates."OnePlus Ace 2 Pro"]
+manufacturer = "OnePlus"
+brand = "OnePlus"
+model = "PJA110"
+device = "xiyou"
+product = "xiyou"
+fingerprint = ""
+name = "xiyou"
+marketname = "OnePlus Ace 2 Pro"
+author = "GitHub@JokerQi666"
