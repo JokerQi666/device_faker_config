@@ -1,1 +1,10 @@
-
+[templates."OPPO Reno 14"]
+manufacturer = "OPPO"
+brand = "OPPO"
+model = "PLA110"
+device = "zhuque-c2"
+product = "zhuque-c2"
+fingerprint = ""
+name = "zhuque-c2"
+marketname = "OPPO Reno 14"
+author = "GitHub@JokerQi666"
