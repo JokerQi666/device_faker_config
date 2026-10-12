@@ -1,1 +1,12 @@
-
+[templates."OPPO Pad 2"]
+manufacturer = "OPPO"
+brand = "OPPO"
+model = "OPD2201"
+device = "aries"
+product = "aries"
+name = "aries"
+marketname = "OPPO Pad 2"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"
