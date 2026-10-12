@@ -1,1 +1,10 @@
-
+[templates."vivo S30 Pro mini"]
+manufacturer = "vivo"
+brand = "vivo"
+model = "V2465A"
+device = "PD2465"
+product = "PD2465"
+fingerprint = ""
+name = "PD2465"
+marketname = "vivo S30 Pro mini"
+author = "GitHub@JokerQi666"
