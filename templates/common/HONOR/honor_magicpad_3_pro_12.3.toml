@@ -1,1 +1,12 @@
-
+[templates."HONOR MagicPad 3 Pro 12.3"]
+manufacturer = "HONOR"
+brand = "HONOR"
+model = "YLE-W09"
+device = "Yongle"
+product = "Yongle"
+name = "Yongle"
+marketname = "HONOR MagicPad 3 Pro 12.3"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"
