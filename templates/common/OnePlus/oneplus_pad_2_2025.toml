@@ -1,1 +1,12 @@
-
+[templates."OnePlus Pad 2 2025"]
+manufacturer = "OnePlus"
+brand = "OnePlus"
+model = "OPD2508"
+device = "himalayan-o"
+product = "himalayan-o"
+name = "himalayan-o"
+marketname = "OnePlus Pad 2 2025"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"
