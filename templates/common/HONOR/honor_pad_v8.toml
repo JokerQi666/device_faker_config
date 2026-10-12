@@ -1,1 +1,12 @@
-
+[templates."HONOR Pad V8"]
+manufacturer = "HONOR"
+brand = "HONOR"
+model = "RT-W09"
+device = "Britten"
+product = "Britten"
+name = "Britten"
+marketname = "HONOR Pad V8"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"
