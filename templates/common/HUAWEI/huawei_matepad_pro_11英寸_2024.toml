@@ -1,1 +1,12 @@
-
+[templates."HUAWEI MatePad Pro 11 英寸 2024"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "XYAO-W00"
+ device = "Xiaoyao"
+ product = "Xiaoyao"
+ name = "Xiaoyao"
+ marketname = "HUAWEI MatePad Pro 11 英寸 2024"
+ fingerprint = " "
+ characteristics = "tablet"
+ force_denylist_unmount = true
+ author = "GitHub@JokerQi666"
