@@ -1,1 +1,10 @@
-
+[templates."vivo X200 Ultra"]
+manufacturer = "vivo"
+brand = "vivo"
+model = "V2454DA"
+device = "PD2454"
+product = "PD2454"
+fingerprint = ""
+name = "PD2454"
+marketname = "vivo X200 Ultra"
+author = "GitHub@JokerQi666"
