@@ -1,1 +1,10 @@
-
+[templates."vivo X27 Pro"]
+manufacturer = "vivo"
+brand = "vivo"
+model = "V1836A"
+device = "PD1836"
+product = "PD1836"
+fingerprint = ""
+name = "PD1836"
+marketname = "vivo X27 Pro"
+author = "GitHub@JokerQi666"
