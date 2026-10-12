@@ -1,10 +1,10 @@
-[templates."OPPO Reno 5K"]
+[templates."OPPO Reno 5 Pro"]
 manufacturer = "OPPO"
 brand = "OPPO"
-model = "PEGM10"
-device = "wudang"
-product = "wudang"
+model = "PDSM00"
+device = "chaka"
+product = "chaka"
 fingerprint = ""
-name = "wudang"
-marketname = "OPPO Reno 5K"
+name = "chaka"
+marketname = "OPPO Reno 5 Pro"
 author = "GitHub@JokerQi666"
