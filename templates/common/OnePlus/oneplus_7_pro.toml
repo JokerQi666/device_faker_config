@@ -1,1 +1,10 @@
-
+[templates."OnePlus 7 Pro"]
+manufacturer = "OnePlus"
+brand = "OnePlus"
+model = "GM1910"
+device = "guacamole"
+product = "guacamole"
+fingerprint = ""
+name = "guacamole"
+marketname = "OnePlus 7 Pro"
+author = "GitHub@JokerQi666"
