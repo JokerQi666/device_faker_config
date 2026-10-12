@@ -1,1 +1,12 @@
-
+[templates."vivo Pad Air"]
+manufacturer = "vivo"
+brand = "vivo"
+model = "PA2353"
+device = "DPD2305"
+product = "DPD2305"
+name = "DPD2305"
+marketname = "vivo Pad Air"
+fingerprint = ""
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"
