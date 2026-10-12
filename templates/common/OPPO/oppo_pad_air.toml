@@ -1,1 +1,12 @@
-
+[templates."OPPO Pad Air"]
+manufacturer = "OPPO"
+brand = "OPPO"
+model = "OPD2102"
+device = "reeves"
+product = "reeves"
+name = "reeves"
+marketname = "OPPO Pad Air"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"
