@@ -1,1 +1,10 @@
-
+[templates."OnePlus 8 Pro"]
+manufacturer = "OnePlus"
+brand = "OnePlus"
+model = "IN2020"
+device = "instantnoodlep"
+product = "instantnoodlep"
+fingerprint = ""
+name = "instantnoodlep"
+marketname = "OnePlus 8 Pro"
+author = "GitHub@JokerQi666"
