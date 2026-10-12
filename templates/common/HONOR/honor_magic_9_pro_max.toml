@@ -1,4 +1,4 @@
-[templates."HONOR Magic9 Pro Max"]
+[templates."HONOR Magic 9 Pro Max"]
 manufacturer = "HONOR"
 brand = "HONOR"
 model = "WKL-AN80"
@@ -6,6 +6,6 @@ device = "Twinkle"
 product = "Twinkle"
 fingerprint = ""
 name = "Twinkle"
-marketname = "HONOR Magic9 Pro Max"
+marketname = "HONOR Magic 9 Pro Max"
 author = "GitHub@JokerQi666"
-description = "HONOR Magic9 Pro Max (16GB+1TB)"
+description = "HONOR Magic 9 Pro Max (16GB+1TB)"
