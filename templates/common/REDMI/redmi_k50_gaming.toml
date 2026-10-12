@@ -1,1 +1,10 @@
-
+[templates."Redmi K50 Gaming"]
+manufacturer = "Xiaomi"
+brand = "Redmi"
+model = "21121210C"
+device = "ingres"
+product = "ingres"
+fingerprint = ""
+name = "ingres"
+marketname = "Redmi K50 Gaming"
+author = "GitHub@JokerQi666"
