@@ -1,1 +1,10 @@
-
+[templates."vivo S50 Pro mini"]
+manufacturer = "vivo"
+brand = "vivo"
+model = "V2527A"
+device = "PD2527"
+product = "PD2527"
+fingerprint = ""
+name = "PD2527"
+marketname = "vivo S50 Pro mini"
+author = "GitHub@JokerQi666"
