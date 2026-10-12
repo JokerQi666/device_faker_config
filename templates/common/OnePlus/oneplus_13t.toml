@@ -1,1 +1,10 @@
-
+[templates."OnePlus 13T"]
+manufacturer = "OnePlus"
+brand = "OnePlus"
+model = "PKX110"
+device = "pagani"
+product = "pagani"
+fingerprint = ""
+name = "pagani"
+marketname = "OnePlus 13T"
+author = "GitHub@JokerQi666"
