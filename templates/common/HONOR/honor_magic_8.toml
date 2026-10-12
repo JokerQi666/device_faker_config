@@ -1,1 +1,10 @@
-
+[templates."HONOR Magic 8"]
+manufacturer = "HONOR"
+brand = "HONOR"
+model = "BKQ-AN80"
+device = "Bacchus"
+product = "Bacchus"
+fingerprint = ""
+name = "Bacchus"
+marketname = "HONOR Magic 8"
+author = "GitHub@JokerQi666"
