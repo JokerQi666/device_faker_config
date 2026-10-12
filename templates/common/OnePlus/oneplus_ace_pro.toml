@@ -1,1 +1,10 @@
-
+[templates."OnePlus Ace Pro"]
+manufacturer = "OnePlus"
+brand = "OnePlus"
+model = "PGP110"
+device = "ovaltine"
+product = "ovaltine"
+fingerprint = ""
+name = "ovaltine"
+marketname = "OnePlus Ace Pro"
+author = "GitHub@JokerQi666"
