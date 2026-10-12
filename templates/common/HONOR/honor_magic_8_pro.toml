@@ -1,1 +1,10 @@
-
+[templates."HONOR Magic 8 Pro"]
+manufacturer = "HONOR"
+brand = "HONOR"
+model = "BKQ-AN90"
+device = "Beryl"
+product = "Beryl"
+fingerprint = ""
+name = "Beryl"
+marketname = "HONOR Magic 8 Pro"
+author = "GitHub@JokerQi666"
