@@ -1,1 +1,12 @@
-
+[templates."iQOO Pad Ultra"]
+manufacturer = "vivo"
+brand = "iQOO"
+model = "iPA2691"
+device = "DPD2605"
+product = "DPD2605"
+name = "DPD2605"
+marketname = "iQOO Pad Ultra"
+fingerprint = ""
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"
