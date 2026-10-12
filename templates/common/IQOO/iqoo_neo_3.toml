@@ -1,1 +1,10 @@
-
+[templates."iQOO Neo 3"]
+manufacturer = "vivo"
+brand = "iQOO"
+model = "V1981A"
+device = "PD1981"
+product = "PD1981"
+fingerprint = ""
+name = "PD1981"
+marketname = "iQOO Neo 3"
+author = "GitHub@JokerQi666"
