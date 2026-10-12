@@ -1,1 +1,10 @@
-
+[templates."OnePlus Ace Racing Edition"]
+manufacturer = "OnePlus"
+brand = "OnePlus"
+model = "PGZ110"
+device = "qqcandy"
+product = "qqcandy"
+fingerprint = ""
+name = "qqcandy"
+marketname = "OnePlus Ace Racing Edition"
+author = "GitHub@JokerQi666"
