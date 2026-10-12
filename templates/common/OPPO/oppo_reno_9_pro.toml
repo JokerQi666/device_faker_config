@@ -1,1 +1,10 @@
-
+[templates."OPPO Reno 9 Pro"]
+manufacturer = "OPPO"
+brand = "OPPO"
+model = "PGX110"
+device = "linhai"
+product = "linhai"
+fingerprint = ""
+name = "linhai"
+marketname = "OPPO Reno 9 Pro"
+author = "GitHub@JokerQi666"
