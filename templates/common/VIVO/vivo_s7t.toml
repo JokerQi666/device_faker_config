@@ -1,1 +1,10 @@
-
+[templates."vivo S7t"]
+manufacturer = "vivo"
+brand = "vivo"
+model = "V2080A"
+device = "PD2080"
+product = "PD2080"
+fingerprint = ""
+name = "PD2080"
+marketname = "vivo S7t"
+author = "GitHub@JokerQi666"
