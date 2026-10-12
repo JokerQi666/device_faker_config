@@ -1,1 +1,10 @@
-
+[templates."OPPO Reno 8 Pro+"]
+manufacturer = "OPPO"
+brand = "OPPO"
+model = "PFZM10"
+device = "taibai"
+product = "taibai"
+fingerprint = ""
+name = "taibai"
+marketname = "OPPO Reno 8 Pro+"
+author = "GitHub@JokerQi666"
