@@ -1,1 +1,10 @@
-
+[templates."HONOR Pad 7"]
+manufacturer = "HONOR"
+brand = "HONOR"
+model = "AGM3-AL09HN"
+device = "Agassi3M"
+product = "Agassi3M"
+fingerprint = ""
+name = "Agassi3M"
+marketname = "HONOR Pad 7"
+author = "GitHub@JokerQi666"
