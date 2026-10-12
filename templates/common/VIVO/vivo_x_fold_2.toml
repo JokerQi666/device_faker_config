@@ -1,1 +1,10 @@
-
+[templates."vivo X Fold 2"]
+manufacturer = "vivo"
+brand = "vivo"
+model = "V2266A"
+device = "PD2266"
+product = "PD2266"
+fingerprint = ""
+name = "PD2266"
+marketname = "vivo X Fold 2"
+author = "GitHub@JokerQi666"
