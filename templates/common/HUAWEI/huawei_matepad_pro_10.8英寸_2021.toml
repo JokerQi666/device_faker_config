@@ -1,1 +1,12 @@
-
+[templates."HUAWEI MatePad Pro 10.8 英寸 2021"]
+manufacturer = "HUAWEI"
+brand = "HUAWEI"
+model = "MRR-W39"
+device = "MarxR"
+product = "MarxR"
+name = "MarxR"
+marketname = "HUAWEI MatePad Pro 10.8 英寸 2021"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"
