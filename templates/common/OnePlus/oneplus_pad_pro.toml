@@ -1,1 +1,12 @@
-
+[templates."OnePlus Pad Pro"]
+manufacturer = "OnePlus"
+brand = "OnePlus"
+model = "OPD2404"
+device = "caihong-o"
+product = "caihong-o"
+name = "caihong-o"
+marketname = "OnePlus Pad Pro"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"
