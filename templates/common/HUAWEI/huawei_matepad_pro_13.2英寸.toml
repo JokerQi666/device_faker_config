@@ -1,1 +1,12 @@
-
+[templates."HUAWEI MatePad Pro 13.2 英寸"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "PCE-AL40"
+ device = "Poincare"
+ product = "Poincare"
+ name = "Poincare"
+ marketname = "HUAWEI MatePad Pro 13.2 英寸"
+ fingerprint = " "
+ characteristics = "tablet"
+ force_denylist_unmount = true
+ author = "GitHub@JokerQi666"
