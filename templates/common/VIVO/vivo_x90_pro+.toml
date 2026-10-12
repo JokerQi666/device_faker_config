@@ -1,1 +1,10 @@
-
+[templates."vivo X90 Pro+"]
+manufacturer = "vivo"
+brand = "vivo"
+model = "V2227A"
+device = "PD2227"
+product = "PD2227"
+fingerprint = ""
+name = "PD2227"
+marketname = "vivo X90 Pro+"
+author = "GitHub@JokerQi666"
