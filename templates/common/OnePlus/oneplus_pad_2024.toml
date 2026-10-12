@@ -1,1 +1,12 @@
-
+[templates."OnePlus Pad 2024"]
+manufacturer = "OnePlus"
+brand = "OnePlus"
+model = "OPD2407"
+device = "dunhuang-o"
+product = "dunhuang-o"
+name = "dunhuang-o"
+marketname = "OnePlus Pad 2024"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"
