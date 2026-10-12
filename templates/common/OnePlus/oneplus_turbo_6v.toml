@@ -1,1 +1,10 @@
-
+[templates."OnePlus Turbo 6V"]
+manufacturer = "OnePlus"
+brand = "OnePlus"
+model = "PLY110"
+device = "prado"
+product = "prado"
+fingerprint = ""
+name = "prado"
+marketname = "OnePlus Turbo 6V"
+author = "GitHub@JokerQi666"
