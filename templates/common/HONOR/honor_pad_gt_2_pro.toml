@@ -1,1 +1,12 @@
-
+[templates."HONOR Pad GT2 Pro"]
+manufacturer = "HONOR"
+brand = "HONOR"
+model = "CHG-W60"
+device = "Changle"
+product = "Changle"
+name = "Changle"
+marketname = "HONOR Pad GT2 Pro"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"
