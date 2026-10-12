@@ -1,1 +1,12 @@
-
+[templates."HUAWEI MatePad 11 英寸"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "DBY-W09"
+ device = "Debussy"
+ product = "Debussy"
+ name = "Debussy"
+ marketname = "HUAWEI MatePad 11 英寸"
+ fingerprint = " "
+ characteristics = "tablet"
+ force_denylist_unmount = true
+ author = "GitHub@JokerQi666"
