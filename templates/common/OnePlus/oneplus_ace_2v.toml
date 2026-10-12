@@ -1,1 +1,10 @@
-
+[templates."OnePlus Ace 2V"]
+manufacturer = "OnePlus"
+brand = "OnePlus"
+model = "PHP110"
+device = "vitamin"
+product = "vitamin"
+fingerprint = ""
+name = "vitamin"
+marketname = "OnePlus Ace 2V"
+author = "GitHub@JokerQi666"
