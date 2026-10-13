@@ -1,0 +1,10 @@
+[templates."HUAWEI nova 12"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "BLK-AL00"
+ device = "Blake"
+ product = "Blake"
+ fingerprint = ""
+ name = "Blake"
+ marketname = "HUAWEI nova 12"
+ author = "GitHub@JokerQi666"
