@@ -1,0 +1,10 @@
+[templates."HUAWEI P30"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "ELE-AL00"
+ device = "Elle"
+ product = "Elle"
+ fingerprint = ""
+ name = "Elle"
+ marketname = "HUAWEI P30"
+ author = "GitHub@JokerQi666"
