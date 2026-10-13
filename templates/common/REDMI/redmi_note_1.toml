@@ -1,10 +1,10 @@
-[templates."REDMI Note 4G"]
+[templates."Redmi Note 1"]
 manufacturer = "Xiaomi"
 brand = "REDMI"
-model = "HM NOTE 1LTE"
+model = "2014022"
 device = "dior"
 product = "dior"
 fingerprint = ""
 name = "dior"
-marketname = "Redmi Note 4G"
+marketname = "Redmi Note 1"
 author = "GitHub@Z-fly"
