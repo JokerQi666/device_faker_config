@@ -1,0 +1,10 @@
+[templates."HUAWEI nova 16z"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "PKN-AL00"
+ device = "Pushkin"
+ product = "Pushkin"
+ fingerprint = ""
+ name = "Pushkin"
+ marketname = "HUAWEI nova 16z"
+ author = "GitHub@JokerQi666"
