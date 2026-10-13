@@ -1,0 +1,10 @@
+[templates."HUAWEI nova 15 Ultra"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "SLY-AL00"
+ device = "Shelley"
+ product = "Shelley"
+ fingerprint = ""
+ name = "Shelley"
+ marketname = "HUAWEI nova 15 Ultra"
+ author = "GitHub@JokerQi666"
