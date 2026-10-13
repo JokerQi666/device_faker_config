@@ -1,0 +1,10 @@
+[templates."HUAWEI Mate 20X"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "EVR-AL00"
+ device = "Ever"
+ product = "Ever"
+ fingerprint = ""
+ name = "Ever"
+ marketname = "HUAWEI Mate 20X"
+ author = "GitHub@JokerQi666"
