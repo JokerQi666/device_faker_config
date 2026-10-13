@@ -1,0 +1,10 @@
+[templates."HUAWEI Mate 50"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "CET-AL00"
+ device = "Cetus"
+ product = "Cetus"
+ fingerprint = ""
+ name = "Cetus"
+ marketname = "HUAWEI Mate 50"
+ author = "GitHub@JokerQi666"
