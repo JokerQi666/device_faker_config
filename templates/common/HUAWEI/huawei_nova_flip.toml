@@ -1,0 +1,10 @@
+[templates."HUAWEI nova Flip"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "PSD-AL00"
+ device = "Poseidon"
+ product = "Poseidon"
+ fingerprint = ""
+ name = "Poseidon"
+ marketname = "HUAWEI nova Flip"
+ author = "GitHub@JokerQi666"
