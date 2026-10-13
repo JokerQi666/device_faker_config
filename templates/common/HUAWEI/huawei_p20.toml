@@ -1,0 +1,10 @@
+[templates."HUAWEI P20"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "EML-AL00"
+ device = "Emily"
+ product = "Emily"
+ fingerprint = ""
+ name = "Emily"
+ marketname = "HUAWEI P20"
+ author = "GitHub@JokerQi666"
