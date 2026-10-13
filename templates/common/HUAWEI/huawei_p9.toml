@@ -1,0 +1,10 @@
+[templates."HUAWEI P9"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "EVA-AL10"
+ device = "Eva"
+ product = "Eva"
+ fingerprint = ""
+ name = "Eva"
+ marketname = "HUAWEI P9"
+ author = "GitHub@JokerQi666"
