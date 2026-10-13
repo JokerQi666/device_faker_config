@@ -1,0 +1,10 @@
+[templates."HUAWEI nova 3i"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "INE-AL00"
+ device = "Sydneyi"
+ product = "Sydneyi"
+ fingerprint = ""
+ name = "Sydneyi"
+ marketname = "HUAWEI nova 3i"
+ author = "GitHub@JokerQi666"
