@@ -1,0 +1,10 @@
+[templates."HUAWEI Mate 40"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "OCE-AN10"
+ device = "Ocean"
+ product = "Ocean"
+ fingerprint = ""
+ name = "Ocean"
+ marketname = "HUAWEI Mate 40"
+ author = "GitHub@JokerQi666"
