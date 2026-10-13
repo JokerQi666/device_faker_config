@@ -1,0 +1,10 @@
+[templates."HUAWEI Mate 20 Pro"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "LYA-AL10"
+ device = "Laya"
+ product = "Laya"
+ fingerprint = ""
+ name = "Laya"
+ marketname = "HUAWEI Mate 20 Pro"
+ author = "GitHub@JokerQi666"
