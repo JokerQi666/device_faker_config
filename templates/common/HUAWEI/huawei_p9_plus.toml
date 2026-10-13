@@ -1,0 +1,10 @@
+[templates."HUAWEI P9 Plus"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "VIE-AL10"
+ device = "Vienna"
+ product = "Vienna"
+ fingerprint = ""
+ name = "Vienna"
+ marketname = "HUAWEI P9 Plus"
+ author = "GitHub@JokerQi666"
