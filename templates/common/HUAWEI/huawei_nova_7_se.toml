@@ -1,0 +1,10 @@
+[templates."HUAWEI nova 7 SE"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "CDY-AN20"
+ device = "CindyN"
+ product = "CindyN"
+ fingerprint = ""
+ name = "CindyN"
+ marketname = "HUAWEI nova 7 SE"
+ author = "GitHub@JokerQi666"
