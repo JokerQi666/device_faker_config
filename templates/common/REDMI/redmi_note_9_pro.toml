@@ -1,0 +1,10 @@
+[templates."Redmi Note 9 Pro"]
+ manufacturer = "Xiaomi"
+ brand = "REDMI"
+ model = "M2007J17C"
+ device = "gauguin"
+ product = "gauguin"
+ fingerprint = ""
+ name = "gauguin"
+ marketname = "Redmi Note 9 Pro"
+ author = "GitHub@JokerQi666"
