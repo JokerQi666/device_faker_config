@@ -1,0 +1,10 @@
+[templates."HUAWEI nova lite"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "WAS-AL00"
+ device = "Warsaw"
+ product = "Warsaw"
+ fingerprint = ""
+ name = "Warsaw"
+ marketname = "HUAWEI nova lite"
+ author = "GitHub@JokerQi666"
