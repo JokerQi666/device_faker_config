@@ -1,0 +1,10 @@
+[templates."HUAWEI Mate 90 Pro Max"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "CMM-AL10"
+ device = "CosmosM"
+ product = "CosmosM"
+ fingerprint = ""
+ name = "CosmosM"
+ marketname = "HUAWEI Mate 90 Pro Max"
+ author = "GitHub@JokerQi666"
