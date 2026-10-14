@@ -16,6 +16,9 @@ jobs:
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
+        with:
+          # 需要 base 提交才能做「仅本次新增文件」的命名比对
+          fetch-depth: 0
         
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -30,18 +33,15 @@ jobs:
         run: |
           python .github/scripts/validate_templates.py
           
-      - name: Check Naming Conventions (Lowercase Filenames)
+      - name: Check Naming Conventions (new template files only)
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
         run: |
-          # 检查 templates 目录下是否所有的 .toml 文件都使用了小写和下划线
-          find templates -name "*.toml" | while read file; do
-            filename=$(basename "$file")
-            # 允许小写字母、数字、下划线、短横线
-            if [[ ! "$filename" =~ ^[a-z0-9_-]+\.toml$ ]]; then
-              # 有些大写文件名(如 OnePlus_15.toml)目前存在，因此先只做警告，不退出 1。
-              # 如果想严格执行，将 echo "::warning" 换成 "::error" 并在最后 exit 1
-              echo "::warning file=$file::文件名建议只使用小写字母、数字和下划线。 ($filename)"
-            fi
-          done
+          # 只检查本次 PR 新增的 .toml 文件；存量命名（OnePlus_13.toml、huawei_mate_40_pro+.toml、
+          # huawei_matepad_10.8英寸.toml 等）是既成事实，不再全树刷屏。
+          # 判定逻辑在脚本里（用 Python 显式判定，避免 POSIX 字符类在 C.UTF-8 下误判中文字符）。
+          git -c core.quotepath=false diff --name-only --diff-filter=A "$BASE_SHA"...HEAD -- templates/ \
+            | python .github/scripts/check_new_template_names.py
           
       - name: Check for trailing spaces
         run: |
