@@ -1,0 +1,13 @@
+
+[templates."HUAWEI MatePad Air 11.5 英寸"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "DBY2-AL00"
+ device = "Debussy2"
+ product = "Debussy2"
+ name = "Debussy2"
+ marketname = "HUAWEI MatePad Air 11.5 英寸"
+ fingerprint = " "
+ characteristics = "tablet"
+ force_denylist_unmount = true
+ author = "GitHub@JokerQi666"

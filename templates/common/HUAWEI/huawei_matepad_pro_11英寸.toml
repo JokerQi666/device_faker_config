@@ -1,0 +1,12 @@
+[templates."HUAWEI MatePad Pro 11 英寸"]
+manufacturer = "HUAWEI"
+brand = "HUAWEI"
+model = "GOT-AL19"
+device = "Goethe"
+product = "Goethe"
+name = "Goethe"
+marketname = "HUAWEI MatePad Pro 11 英寸"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"

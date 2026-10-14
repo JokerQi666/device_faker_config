@@ -1,0 +1,10 @@
+[templates."Redmi Note 5"]
+ manufacturer = "Xiaomi"
+ brand = "REDMI"
+ model = "MEE7S"
+ device = "whyred"
+ product = "whyred"
+ fingerprint = ""
+ name = "whyred"
+ marketname = "Redmi Note 5"
+ author = "GitHub@Z-fly"

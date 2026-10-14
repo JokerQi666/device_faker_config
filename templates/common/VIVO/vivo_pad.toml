@@ -1,0 +1,12 @@
+[templates."vivo Pad"]
+manufacturer = "vivo"
+brand = "vivo"
+model = "PA2170"
+device = "DPD2106"
+product = "DPD2106"
+name = "DPD2106"
+marketname = "vivo Pad"
+fingerprint = ""
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"

@@ -1,0 +1,10 @@
+[templates."HUAWEI Pura 70 Ultra"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "HBP-AL00"
+ device = "HepburnP"
+ product = "HepburnP"
+ fingerprint = ""
+ name = "HepburnP"
+ marketname = "HUAWEI Pura 70 Ultra"
+ author = "GitHub@JokerQi666"

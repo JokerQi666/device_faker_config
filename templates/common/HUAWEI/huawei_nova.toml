@@ -1,0 +1,10 @@
+[templates."HUAWEI nova"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "CAZ-AL10"
+ device = "Cannes"
+ product = "Cannes"
+ fingerprint = ""
+ name = "Cannes"
+ marketname = "HUAWEI nova"
+ author = "GitHub@JokerQi666"

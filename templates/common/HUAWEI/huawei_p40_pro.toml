@@ -1,0 +1,10 @@
+[templates."HUAWEI P40 Pro"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "ELS-AN00"
+ device = "Elsa"
+ product = "Elsa"
+ fingerprint = ""
+ name = "Elsa"
+ marketname = "HUAWEI P40 Pro"
+ author = "GitHub@JokerQi666"

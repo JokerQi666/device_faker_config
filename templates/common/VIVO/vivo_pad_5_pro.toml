@@ -1,0 +1,12 @@
+[templates."vivo Pad 5 Pro"]
+manufacturer = "vivo"
+brand = "vivo"
+model = "PA2573"
+device = "DPD2429"
+product = "DPD2429"
+name = "DPD2429"
+marketname = "vivo Pad 5 Pro"
+fingerprint = ""
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"

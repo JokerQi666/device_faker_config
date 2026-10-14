@@ -1,0 +1,12 @@
+[templates."OPPO Pad 5 Pro"]
+manufacturer = "OPPO"
+brand = "OPPO"
+model = "OPD2511"
+device = "iceland"
+product = "iceland"
+name = "iceland"
+marketname = "OPPO Pad 5 Pro"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"

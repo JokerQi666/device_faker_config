@@ -1,0 +1,12 @@
+[templates."HONOR MagicPad 2"]
+manufacturer = "HONOR"
+brand = "HONOR"
+model = "ROD2-W09"
+device = "Rolland2"
+product = "Rolland2"
+name = "Rolland2"
+marketname = "HONOR MagicPad 2"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"

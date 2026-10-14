@@ -1,0 +1,10 @@
+[templates."HUAWEI Mate 50 Pro"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "DCO-AL00"
+ device = "Draco"
+ product = "Draco"
+ fingerprint = ""
+ name = "Draco"
+ marketname = "HUAWEI Mate 50 Pro"
+ author = "GitHub@JokerQi666"

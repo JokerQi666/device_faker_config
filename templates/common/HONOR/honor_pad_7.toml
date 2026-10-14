@@ -1,0 +1,12 @@
+[templates."HONOR Pad 7"]
+manufacturer = "HONOR"
+brand = "HONOR"
+model = "AGM3-AL09HN"
+device = "Agassi3M"
+product = "Agassi3M"
+name = "Agassi3M"
+marketname = "HONOR Pad 7"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"

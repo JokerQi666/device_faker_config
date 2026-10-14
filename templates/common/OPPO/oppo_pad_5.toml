@@ -1,0 +1,12 @@
+[templates."OPPO Pad 5"]
+manufacturer = "OPPO"
+brand = "OPPO"
+model = "OPD2506"
+device = "himalayan"
+product = "himalayan"
+name = "himalayan"
+marketname = "OPPO Pad 5"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"

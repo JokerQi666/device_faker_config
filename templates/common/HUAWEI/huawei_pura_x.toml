@@ -1,0 +1,10 @@
+[templates."HUAWEI Pura X"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "VDE-AL10"
+ device = "Verde"
+ product = "Verde"
+ fingerprint = ""
+ name = "Verde"
+ marketname = "HUAWEI Pura X"
+ author = "GitHub@JokerQi666"

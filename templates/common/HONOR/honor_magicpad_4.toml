@@ -1,0 +1,12 @@
+[templates."HONOR MagicPad 4"]
+manufacturer = "HONOR"
+brand = "HONOR"
+model = "MLA-W09"
+device = "Mulan"
+product = "Mulan"
+name = "Mulan"
+marketname = "HONOR MagicPad 4"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"

@@ -1,0 +1,12 @@
+[templates."HONOR Pad 9"]
+manufacturer = "HONOR"
+brand = "HONOR"
+model = "HEY2-W19"
+device = "Hendry2"
+product = "Hendry2"
+name = "Hendry2"
+marketname = "HONOR Pad 9"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"

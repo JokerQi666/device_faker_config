@@ -1,0 +1,12 @@
+[templates."HONOR Pad V6"]
+manufacturer = "HONOR"
+brand = "HONOR"
+model = "KJR-W09"
+device = "KarajanR"
+product = "KarajanR"
+name = "KarajanR"
+marketname = "HONOR Pad V6"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"

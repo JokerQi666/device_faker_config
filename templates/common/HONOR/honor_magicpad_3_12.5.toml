@@ -1,0 +1,12 @@
+[templates."HONOR MagicPad 3 12.5"]
+manufacturer = "HONOR"
+brand = "HONOR"
+model = "CGL-W00"
+device = "Changle"
+product = "Changle"
+name = "Changle"
+marketname = "HONOR MagicPad 3 12.5"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"

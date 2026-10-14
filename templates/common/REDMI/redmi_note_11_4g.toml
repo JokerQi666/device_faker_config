@@ -1,0 +1,10 @@
+[templates."REDMI Note 11 4G"]
+manufacturer = "Xiaomi"
+brand = "REDMI"
+model = "21121119SC"
+device = "selene"
+product = "selene"
+fingerprint = ""
+name = "selene"
+marketname = "Redmi Note 11 4G"
+author = "GitHub@Z-fly"

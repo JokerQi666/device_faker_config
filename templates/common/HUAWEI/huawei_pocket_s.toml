@@ -1,0 +1,10 @@
+[templates."HUAWEI Pocket S"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "BAL-AL60"
+ device = "Bali"
+ product = "Bali"
+ fingerprint = ""
+ name = "Bali"
+ marketname = "HUAWEI Pocket S"
+ author = "GitHub@JokerQi666"

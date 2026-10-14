@@ -1,0 +1,12 @@
+[templates."HONOR Pad 10 Pro"]
+manufacturer = "HONOR"
+brand = "HONOR"
+model = "ROL-W10"
+device = "Rowling"
+product = "Rowling"
+name = "Rowling"
+marketname = "HONOR Pad 10 Pro"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"

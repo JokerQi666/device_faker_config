@@ -1,0 +1,10 @@
+[templates."Redmi Note 8 Pro"]
+ manufacturer = "Xiaomi"
+ brand = "REDMI"
+ model = "M1906G7E"
+ device = "begonia"
+ product = "begonia"
+ fingerprint = ""
+ name = "begonia"
+ marketname = "Redmi Note 8 Pro"
+ author = "GitHub@JokerQi666"

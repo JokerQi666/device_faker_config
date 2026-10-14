@@ -1,0 +1,12 @@
+[templates."iQOO Pad 6 Pro"]
+manufacturer = "vivo"
+brand = "iQOO"
+model = "iPA2673"
+device = "DPD2540"
+product = "DPD2540"
+name = "DPD2540"
+marketname = "iQOO Pad 6 Pro"
+fingerprint = ""
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"

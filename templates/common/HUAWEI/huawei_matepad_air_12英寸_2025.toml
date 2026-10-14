@@ -1,0 +1,12 @@
+[templates."HUAWEI MatePad Air 12 英寸 2025"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "LRT-W30"
+ device = "Laurent"
+ product = "Laurent"
+ name = "Laurent"
+ marketname = "HUAWEI MatePad Air 12 英寸 2025"
+ fingerprint = " "
+ characteristics = "tablet"
+ force_denylist_unmount = true
+ author = "GitHub@JokerQi666"

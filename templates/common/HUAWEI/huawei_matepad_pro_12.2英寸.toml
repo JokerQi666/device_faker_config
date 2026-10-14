@@ -1,0 +1,12 @@
+[templates."HUAWEI MatePad Pro 12.2 英寸"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "MRO-AL10"
+ device = "Miro"
+ product = "Miro"
+ name = "Miro"
+ marketname = "HUAWEI MatePad Pro 12.2 英寸"
+ fingerprint = " "
+ characteristics = "tablet"
+ force_denylist_unmount = true
+ author = "GitHub@JokerQi666"

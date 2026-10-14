@@ -1,0 +1,12 @@
+[templates."HONOR Pad GT Pro"]
+manufacturer = "HONOR"
+brand = "HONOR"
+model = "ROD2-W69"
+device = "Rolland2"
+product = "Rolland2"
+name = "Rolland2"
+marketname = "HONOR Pad GT Pro"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"

@@ -1,0 +1,12 @@
+[templates."iQOO Pad 2"]
+manufacturer = "vivo"
+brand = "iQOO"
+model = "iPA2453"
+device = "DPD2345"
+product = "DPD2345"
+name = "DPD2345"
+marketname = "iQOO Pad 2"
+fingerprint = ""
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"

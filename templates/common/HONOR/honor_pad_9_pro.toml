@@ -1,0 +1,12 @@
+[templates."HONOR Pad 9 Pro"]
+manufacturer = "HONOR"
+brand = "HONOR"
+model = "ROD-W19"
+device = "Rolland"
+product = "Rolland"
+name = "Rolland"
+marketname = "HONOR Pad 9 Pro"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"

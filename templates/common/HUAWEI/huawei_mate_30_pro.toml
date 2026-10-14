@@ -1,0 +1,10 @@
+[templates."HUAWEI Mate 30 Pro"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "LIO-AL00"
+ device = "Lion"
+ product = "Lion"
+ fingerprint = ""
+ name = "Lion"
+ marketname = "HUAWEI Mate 30 Pro"
+ author = "GitHub@JokerQi666"

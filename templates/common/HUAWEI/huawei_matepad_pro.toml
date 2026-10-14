@@ -1,0 +1,12 @@
+[templates."HUAWEI MatePad Pro"]
+manufacturer = "HUAWEI"
+brand = "HUAWEI"
+model = "MRX-AN19"
+device = "Marx"
+product = "Marx"
+name = "Marx"
+marketname = "HUAWEI MatePad Pro"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"

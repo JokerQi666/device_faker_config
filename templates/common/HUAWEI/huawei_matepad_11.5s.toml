@@ -1,0 +1,12 @@
+[templates."HUAWEI MatePad 11.5 S"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "TGR-W10"
+ device = "Tagore"
+ product = "Tagore"
+ name = "Tagore"
+ marketname = "HUAWEI MatePad 11.5 S"
+ fingerprint = " "
+ characteristics = "tablet"
+ force_denylist_unmount = true
+ author = "GitHub@JokerQi666"

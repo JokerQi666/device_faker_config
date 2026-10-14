@@ -1,0 +1,12 @@
+[templates."HONOR Pad V8 Pro"]
+manufacturer = "HONOR"
+brand = "HONOR"
+model = "ROD-W09"
+device = "Rolland"
+product = "Rolland"
+name = "Rolland"
+marketname = "HONOR Pad V8 Pro"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"

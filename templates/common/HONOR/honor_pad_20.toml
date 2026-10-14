@@ -1,0 +1,12 @@
+[templates."HONOR Pad 20"]
+manufacturer = "HONOR"
+brand = "HONOR"
+model = "HEY4-AN00"
+device = "Hendry4"
+product = "Hendry4"
+name = "Hendry4"
+marketname = "HONOR Pad 20"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"

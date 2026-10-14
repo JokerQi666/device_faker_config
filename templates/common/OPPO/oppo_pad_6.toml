@@ -1,0 +1,12 @@
+[templates."OPPO Pad 6"]
+manufacturer = "OPPO"
+brand = "OPPO"
+model = "OPD2601"
+device = "jinggangshan"
+product = "jinggangshan"
+name = "jinggangshan"
+marketname = "OPPO Pad 6"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"

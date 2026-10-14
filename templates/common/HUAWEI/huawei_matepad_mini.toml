@@ -1,0 +1,12 @@
+[templates."HUAWEI MatePad Mini"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "MLR-AL10"
+ device = "Mclaren"
+ product = "Mclaren"
+ name = "Mclaren"
+ marketname = "HUAWEI MatePad Mini"
+ fingerprint = " "
+ characteristics = "tablet"
+ force_denylist_unmount = true
+ author = "GitHub@JokerQi666"

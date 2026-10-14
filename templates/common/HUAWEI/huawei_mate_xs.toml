@@ -1,0 +1,10 @@
+[templates."HUAWEI Mate Xs"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "TAH-AN00m"
+ device = "Tahiti"
+ product = "Tahiti"
+ fingerprint = ""
+ name = "Tahiti"
+ marketname = "HUAWEI Mate Xs"
+ author = "GitHub@JokerQi666"

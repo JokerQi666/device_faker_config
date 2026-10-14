@@ -1,0 +1,12 @@
+[templates."HUAWEI MatePad 11.5"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "TXZ-AL10"
+ device = "Taoxingzhi"
+ product = "Taoxingzhi"
+ name = "Taoxingzhi"
+ marketname = "HUAWEI MatePad 11.5"
+ fingerprint = " "
+ characteristics = "tablet"
+ force_denylist_unmount = true
+ author = "GitHub@JokerQi666"

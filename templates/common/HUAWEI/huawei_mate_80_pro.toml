@@ -1,0 +1,10 @@
+[templates."HUAWEI Mate 80 Pro"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "SGT-AL00"
+ device = "Sagittarius"
+ product = "Sagittarius"
+ fingerprint = ""
+ name = "Sagittarius"
+ marketname = "HUAWEI Mate 80 Pro"
+ author = "GitHub@JokerQi666"

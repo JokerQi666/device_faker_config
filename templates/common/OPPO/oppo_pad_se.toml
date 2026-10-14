@@ -1,0 +1,12 @@
+[templates."OPPO Pad SE"]
+manufacturer = "OPPO"
+brand = "OPPO"
+model = "OPD2417"
+device = "fiji"
+product = "fiji"
+name = "fiji"
+marketname = "OPPO Pad SE"
+fingerprint = " "
+characteristics = "tablet"
+force_denylist_unmount = true
+author = "GitHub@JokerQi666"

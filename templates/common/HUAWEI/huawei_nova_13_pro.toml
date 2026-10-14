@@ -1,0 +1,10 @@
+[templates."HUAWEI nova 13 Pro"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "MIS-AL00"
+ device = "MillaS"
+ product = "MillaS"
+ fingerprint = ""
+ name = "MillaS"
+ marketname = "HUAWEI nova 13 Pro"
+ author = "GitHub@JokerQi666"

@@ -1,0 +1,13 @@
+
+[templates."HUAWEI MatePad 10.8 英寸"]
+ manufacturer = "HUAWEI"
+ brand = "HUAWEI"
+ model = "SCMR-AL09"
+ device = "SchumannR"
+ product = "SchumannR"
+ name = "SchumannR"
+ marketname = "HUAWEI MatePad 10.8 英寸"
+ fingerprint = " "
+ characteristics = "tablet"
+ force_denylist_unmount = true
+ author = "GitHub@JokerQi666"
