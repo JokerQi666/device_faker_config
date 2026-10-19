@@ -5618,7 +5618,7 @@ author = "Github@jekee550"
 # templates/common/REDMI/redmi_1.toml · Redmi 1
 [templates."redmi_1"]
 manufacturer = "Xiaomi"
-brand = "REDMI"
+brand = "Xiaomi"
 model = "2013022"
 device = "wt93007"
 product = "wt93007"
@@ -5630,7 +5630,7 @@ author = "GitHub@Z-fly"
 # templates/common/REDMI/redmi_1s.toml · Redmi 1s
 [templates."redmi_1s"]
 manufacturer = "Xiaomi"
-brand = "REDMI"
+brand = "Xiaomi"
 model = "2014011"
 device = "wt93807"
 product = "wt93807"
@@ -5642,7 +5642,7 @@ author = "GitHub@Z-fly"
 # templates/common/REDMI/redmi_2.toml · Redmi 2
 [templates."redmi_2"]
 manufacturer = "Xiaomi"
-brand = "REDMI"
+brand = "Xiaomi"
 model = "HM 2LTE-CMCC"
 device = "wt88047"
 product = "wt88047"
@@ -5654,7 +5654,7 @@ author = "GitHub@Z-fly"
 # templates/common/REDMI/redmi_2a.toml · Redmi 2A
 [templates."redmi_2a"]
 manufacturer = "Xiaomi"
-brand = "REDMI"
+brand = "Xiaomi"
 model = "HM 2A"
 device = "lte26007"
 product = "lte26007"
@@ -5666,7 +5666,7 @@ author = "GitHub@Z-fly"
 # templates/common/REDMI/redmi_a7_pro_5g.toml · REDMI A7 Pro 5G
 [templates."redmi_a7_pro_5g"]
 manufacturer = "Xiaomi"
-brand = "REDMI"
+brand = "Redmi"
 model = "26020RN1AI"
 device = "somalia"
 product = "somalia"
@@ -5678,7 +5678,7 @@ author = "GitHub@Z-fly"
 # templates/common/REDMI/redmi_k100_pro.toml · REDMI K100 Pro
 [templates."redmi_k100_pro"]
 manufacturer = "Xiaomi"
-brand = "REDMI"
+brand = "Redmi"
 model = "M511CD"
 device = "athens"
 product = "athens"
@@ -5690,7 +5690,7 @@ author = "GitHub@JokerQi666"
 # templates/common/REDMI/redmi_k100_pro_max.toml · REDMI K100 Pro Max
 [templates."redmi_k100_pro_max"]
 manufacturer = "Xiaomi"
-brand = "REDMI"
+brand = "Redmi"
 model = "M098FE"
 device = "songyuan"
 product = "songyuan"
@@ -6002,7 +6002,7 @@ author = "GitHub@JokerQi666"
 # templates/common/REDMI/redmi_k80.toml · REDMI K80
 [templates."redmi_k80"]
 manufacturer = "Xiaomi"
-brand = "REDMI"
+brand = "Redmi"
 model = "24117RK2CC"
 device = "zorn"
 product = "zorn"
@@ -6014,7 +6014,7 @@ author = "GitHub@JokerQi666"
 # templates/common/REDMI/redmi_k80_pro.toml · REDMI K80 Pro
 [templates."redmi_k80_pro"]
 manufacturer = "Xiaomi"
-brand = "REDMI"
+brand = "Redmi"
 model = "24122RKC7C"
 device = "miro"
 product = "miro"
@@ -6026,7 +6026,7 @@ author = "GitHub@JokerQi666"
 # templates/common/REDMI/redmi_k80_ultra.toml · REDMI K80 Ultra
 [templates."redmi_k80_ultra"]
 manufacturer = "Xiaomi"
-brand = "REDMI"
+brand = "Redmi"
 model = "25060RK16C"
 device = "dali"
 product = "dali"
@@ -6050,7 +6050,7 @@ author = "Github@orangesroof"
 # templates/common/REDMI/redmi_k90_max.toml · REDMI K90 Max
 [templates."redmi_k90_max"]
 manufacturer = "Xiaomi"
-brand = "REDMI"
+brand = "Redmi"
 model = "2604FRK1EC"
 device = "prague"
 product = "prague"
@@ -6074,7 +6074,7 @@ author = "GitHub@anorin527"
 # templates/common/REDMI/redmi_k90_ultra.toml · REDMI K90 Ultra
 [templates."redmi_k90_ultra"]
 manufacturer = "Xiaomi"
-brand = "REDMI"
+brand = "Redmi"
 model = "M332BF"
 device = "warsaw"
 product = "warsaw"
@@ -6086,7 +6086,7 @@ author = "GitHub@JokerQi666"
 # templates/common/REDMI/redmi_k_pad.toml · REDMI K Pad
 [templates."redmi_k_pad"]
 manufacturer = "Xiaomi"
-brand = "REDMI"
+brand = "Redmi"
 model = "25079RPDCC"
 device = "turner"
 product = "turner"
@@ -6100,7 +6100,7 @@ author = "GitHub@JokerQi666"
 # templates/common/REDMI/redmi_k_pad_2.toml · REDMI K Pad 2
 [templates."redmi_k_pad_2"]
 manufacturer = "Xiaomi"
-brand = "REDMI"
+brand = "Redmi"
 model = "26048RP6AC"
 device = "yili"
 product = "yili"
@@ -6114,7 +6114,7 @@ author = "GitHub@JokerQi666"
 # templates/common/REDMI/redmi_m100.toml · REDMI M100
 [templates."redmi_m100"]
 manufacturer = "Xiaomi"
-brand = "REDMI"
+brand = "Redmi"
 model = "26062RN92C"
 device = "steppe"
 product = "steppe"
@@ -6126,7 +6126,7 @@ author = "GitHub@Z-fly"
 # templates/common/REDMI/redmi_note_1.toml · Redmi Note 1
 [templates."redmi_note_1"]
 manufacturer = "Xiaomi"
-brand = "REDMI"
+brand = "Xiaomi"
 model = "2014022"
 device = "dior"
 product = "dior"
@@ -6138,7 +6138,7 @@ author = "GitHub@Z-fly"
 # templates/common/REDMI/redmi_note_10.toml · REDMI Note 10
 [templates."redmi_note_10"]
 manufacturer = "Xiaomi"
-brand = "REDMI"
+brand = "Redmi"
 model = "M2101K7AG"
 device = "mojito"
 product = "mojito"
@@ -6162,7 +6162,7 @@ author = "GitHub@JokerQi666"
 # templates/common/REDMI/redmi_note_11_4g.toml · REDMI Note 11 4G
 [templates."redmi_note_11_4g"]
 manufacturer = "Xiaomi"
-brand = "REDMI"
+brand = "Redmi"
 model = "21121119SC"
 device = "selene"
 product = "selene"
@@ -6282,7 +6282,7 @@ author = "GitHub@JokerQi666"
 # templates/common/REDMI/redmi_note_15.toml · REDMI Note 15
 [templates."redmi_note_15"]
 manufacturer = "Xiaomi"
-brand = "REDMI"
+brand = "Redmi"
 model = "25098RA98C"
 device = "kunzite"
 product = "kunzite"
@@ -6294,7 +6294,7 @@ author = "GitHub@JokerQi666"
 # templates/common/REDMI/redmi_note_15_pro+.toml · REDMI Note 15 Pro+
 [templates."redmi_note_15_pro+"]
 manufacturer = "Xiaomi"
-brand = "REDMI"
+brand = "Redmi"
 model = "2510ERA8BC"
 device = "flourite"
 product = "flourite"
@@ -6306,7 +6306,7 @@ author = "GitHub@JokerQi666"
 # templates/common/REDMI/redmi_note_15_pro.toml · REDMI Note 15 Pro
 [templates."redmi_note_15_pro"]
 manufacturer = "Xiaomi"
-brand = "REDMI"
+brand = "Redmi"
 model = "25080RABDC"
 device = "lapis"
 product = "lapis"
@@ -6318,7 +6318,7 @@ author = "GitHub@JokerQi666"
 # templates/common/REDMI/redmi_note_17.toml · REDMI Note 17
 [templates."redmi_note_17"]
 manufacturer = "Xiaomi"
-brand = "REDMI"
+brand = "Redmi"
 model = "26021RN18C"
 device = "mist"
 product = "mist"
@@ -6330,7 +6330,7 @@ author = "GitHub@JokerQi666"
 # templates/common/REDMI/redmi_note_17_pro.toml · REDMI Note 17 Pro
 [templates."redmi_note_17_pro"]
 manufacturer = "Xiaomi"
-brand = "REDMI"
+brand = "Redmi"
 model = "2607DRA18C"
 device = "iolite"
 product = "iolite"
@@ -6342,7 +6342,7 @@ author = "GitHub@JokerQi666"
 # templates/common/REDMI/redmi_note_1s.toml · Redmi Note 1S
 [templates."redmi_note_1s"]
 manufacturer = "Xiaomi"
-brand = "REDMI"
+brand = "Xiaomi"
 model = "2014915"
 device = "gucci"
 product = "gucci"
@@ -6354,7 +6354,7 @@ author = "GitHub@Z-fly"
 # templates/common/REDMI/redmi_note_2.toml · Redmi Note 2
 [templates."redmi_note_2"]
  manufacturer = "Xiaomi"
- brand = "REDMI"
+ brand = "Xiaomi"
  model = "2015052"
  device = "hermes"
  product = "hermes"
@@ -6366,7 +6366,7 @@ author = "GitHub@Z-fly"
 # templates/common/REDMI/redmi_note_3.toml · Redmi Note 3
 [templates."redmi_note_3"]
  manufacturer = "Xiaomi"
- brand = "REDMI"
+ brand = "Xiaomi"
  model = "2015115"
  device = "kenzo"
  product = "kenzo"
@@ -6378,7 +6378,7 @@ author = "GitHub@Z-fly"
 # templates/common/REDMI/redmi_note_4.toml · Redmi Note 4
 [templates."redmi_note_4"]
  manufacturer = "Xiaomi"
- brand = "REDMI"
+ brand = "Xiaomi"
  model = "2016050"
  device = "nikel"
  product = "nikel"
@@ -6390,7 +6390,7 @@ author = "GitHub@Z-fly"
 # templates/common/REDMI/redmi_note_4x.toml · Redmi Note 4X
 [templates."redmi_note_4x"]
  manufacturer = "Xiaomi"
- brand = "REDMI"
+ brand = "Xiaomi"
  model = "MBE6A5"
  device = "nikel"
  product = "nikel"
@@ -6402,7 +6402,7 @@ author = "GitHub@Z-fly"
 # templates/common/REDMI/redmi_note_5.toml · Redmi Note 5
 [templates."redmi_note_5"]
  manufacturer = "Xiaomi"
- brand = "REDMI"
+ brand = "xiaomi"
  model = "MEE7S"
  device = "whyred"
  product = "whyred"
@@ -6414,7 +6414,7 @@ author = "GitHub@Z-fly"
 # templates/common/REDMI/redmi_note_5a.toml · Redmi Note 5A
 [templates."redmi_note_5a"]
  manufacturer = "Xiaomi"
- brand = "REDMI"
+ brand = "xiaomi"
  model = "MDE6S"
  device = "ugg"
  product = "ugg"
@@ -6426,7 +6426,7 @@ author = "GitHub@Z-fly"
 # templates/common/REDMI/redmi_note_7.toml · Redmi Note 7
 [templates."redmi_note_7"]
  manufacturer = "Xiaomi"
- brand = "REDMI"
+ brand = "xiaomi"
  model = "M1901F7E"
  device = "lavender"
  product = "lavender"
@@ -6438,7 +6438,7 @@ author = "GitHub@Z-fly"
 # templates/common/REDMI/redmi_note_7_pro.toml · Redmi Note 7 Pro
 [templates."redmi_note_7_pro"]
  manufacturer = "Xiaomi"
- brand = "REDMI"
+ brand = "xiaomi"
  model = "M1901F7BE"
  device = "violet"
  product = "violet"
@@ -6450,7 +6450,7 @@ author = "GitHub@Z-fly"
 # templates/common/REDMI/redmi_note_8.toml · Redmi Note 8
 [templates."redmi_note_8"]
  manufacturer = "Xiaomi"
- brand = "REDMI"
+ brand = "xiaomi"
  model = "M1908C3JE"
  device = "ginkgo"
  product = "ginkgo"
@@ -6462,7 +6462,7 @@ author = "GitHub@Z-fly"
 # templates/common/REDMI/redmi_note_8_pro.toml · Redmi Note 8 Pro
 [templates."redmi_note_8_pro"]
  manufacturer = "Xiaomi"
- brand = "REDMI"
+ brand = "Redmi"
  model = "M1906G7E"
  device = "begonia"
  product = "begonia"
@@ -6474,7 +6474,7 @@ author = "GitHub@Z-fly"
 # templates/common/REDMI/redmi_note_9_4g.toml · Redmi Note 9 4G
 [templates."redmi_note_9_4g"]
 manufacturer = "Xiaomi"
-brand = "REDMI"
+brand = "Redmi"
 model = "M2010J19SC"
 device = "lime"
 product = "lime"
@@ -6486,7 +6486,7 @@ author = "GitHub@JokerQi666"
 # templates/common/REDMI/redmi_note_9_5g.toml · Redmi Note 9 5G
 [templates."redmi_note_9_5g"]
  manufacturer = "Xiaomi"
- brand = "REDMI"
+ brand = "Redmi"
  model = "M2007J22C"
  device = "cannon"
  product = "cannon"
@@ -6498,7 +6498,7 @@ author = "GitHub@JokerQi666"
 # templates/common/REDMI/redmi_note_9_pro.toml · Redmi Note 9 Pro
 [templates."redmi_note_9_pro"]
  manufacturer = "Xiaomi"
- brand = "REDMI"
+ brand = "Redmi"
  model = "M2007J17C"
  device = "gauguin"
  product = "gauguin"
@@ -6510,7 +6510,7 @@ author = "GitHub@JokerQi666"
 # templates/common/REDMI/redmi_pad_2_pro.toml · REDMI Pad 2 Pro
 [templates."redmi_pad_2_pro"]
 manufacturer = "Xiaomi"
-brand = "REDMI"
+brand = "Redmi"
 model = "25099RP13C"
 device = "flute"
 product = "flute"
@@ -6552,7 +6552,7 @@ author = "GitHub@JokerQi666"
 # templates/common/REDMI/redmi_r70.toml · REDMI R70 5G
 [templates."redmi_r70"]
 manufacturer = "Xiaomi"
-brand = "REDMI"
+brand = "Redmi"
 model = "26020RN1AC"
 device = "somalia"
 product = "somalia"
@@ -6564,7 +6564,7 @@ author = "GitHub@Z-fly"
 # templates/common/REDMI/redmi_r70m.toml · REDMI R70m 5G
 [templates."redmi_r70m"]
 manufacturer = "Xiaomi"
-brand = "REDMI"
+brand = "Redmi"
 model = "26020RN1AC"
 device = "somalia"
 product = "somalia"
@@ -6588,7 +6588,7 @@ author = "GitHub@JokerQi666"
 # templates/common/REDMI/redmi_turbo_4.toml · REDMI Turbo 4
 [templates."redmi_turbo_4"]
 manufacturer = "Xiaomi"
-brand = "REDMI"
+brand = "Redmi"
 model = "24129RT7CC"
 device = "rodin"
 product = "rodin"
@@ -6600,7 +6600,7 @@ author = "GitHub@JokerQi666"
 # templates/common/REDMI/redmi_turbo_4_pro.toml · REDMI Turbo 4 Pro
 [templates."redmi_turbo_4_pro"]
 manufacturer = "Xiaomi"
-brand = "REDMI"
+brand = "Redmi"
 model = "25053RT47C"
 device = "onyx"
 product = "onyx"
@@ -6612,7 +6612,7 @@ author = "GitHub@JokerQi666"
 # templates/common/REDMI/redmi_turbo_5.toml · REDMI Turbo 5
 [templates."redmi_turbo_5"]
 manufacturer = "Xiaomi"
-brand = "REDMI"
+brand = "Redmi"
 model = "2511FRT34C"
 device = "klee"
 product = "klee"
@@ -6624,7 +6624,7 @@ author = "GitHub@JokerQi666"
 # templates/common/REDMI/redmi_turbo_5_max.toml · REDMI Turbo 5 Max
 [templates."redmi_turbo_5_max"]
 manufacturer = "Xiaomi"
-brand = "REDMI"
+brand = "Redmi"
 model = "2602BRT18C"
 device = "dash"
 product = "dash"
