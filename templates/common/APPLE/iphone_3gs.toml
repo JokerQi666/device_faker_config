@@ -1,10 +1,10 @@
-﻿[templates."iPhone 3GS"]
+[templates."iPhone 3G"]
 manufacturer = "Apple"
 brand = "Apple"
-model = "A1303"
-device = "iPhone2,1"
-product = "iPhone2,1"
+model = "A1324"
+device = "iPhone1,2"
+product = "iPhone1,2"
 fingerprint = ""
-name = "iPhone2,1"
-marketname = "iPhone 3GS"
+name = "iPhone1,2"
+marketname = "iPhone 3G"
 author = "GitHub@JokerQi666"
